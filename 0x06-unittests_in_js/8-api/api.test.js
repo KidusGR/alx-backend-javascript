@@ -1,4 +1,3 @@
-'use strict';
 const request = require('request');
 const chai = require('chai');
 
